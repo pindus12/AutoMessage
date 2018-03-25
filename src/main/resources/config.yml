@@ -21,6 +21,9 @@ message-lists:
     interval: 45
     expiry: -1
     messages:
+    &9[Witaj lubisz Serwery Survivial trafiles akurat to serwer dla ciebie]
+    
+    
     - '&1First&r message \nin the default list!'
     - '&2Second&r message \nin the default list!'
     - '&3Third&r message \nin the default list!'
